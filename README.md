@@ -1,2 +1,3 @@
-# fullstack-ai-chatbot
-A full stack ai chatbot build with Rust
+# Full Stack AI Chatbot
+
+A full stack ai chatbot build with Rust. 🤖
